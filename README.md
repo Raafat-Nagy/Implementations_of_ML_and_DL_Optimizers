@@ -12,7 +12,6 @@ This repository contains implementations of numerical optimization algorithms us
 | `2_Momentum_and_NAG_Gradient_Descent.ipynb`                                                    | Momentum and Nesterov Accelerated Gradient (NAG) implementations.   |
 | `3_Adagrad_and_RMSProp.ipynb`                                                                  | Adagrad and RMSProp optimizers implementations.                     |
 | `4_Adam_Optimizer_Implementation.ipynb`                                                        | Adam optimizer implementation.                                      |
-| `Master_Numerical_Optimization_for_Machine_Learning_and_Deep_Learning_in_5_Days_-_YouTube.url` | Link to related YouTube tutorials.                                  |
 
 ## Covered Topics
 
